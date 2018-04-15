@@ -4,3 +4,4 @@ Git has a mutable index call stage.
 Git tracks changes of files.
 Git is a very powerfull tool.
 Creating a new branch is quick and simple.
+Creating a branch named dev
